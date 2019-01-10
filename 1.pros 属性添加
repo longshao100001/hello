@@ -7,5 +7,3 @@
  5.style 顺序声明属性，后声明的属性会覆盖先前声明的同名属性
  6.flex 指定比例填充 flexDirection 设定主轴，row水平 column竖直 ，默认column  justifyContent　： flex-start、center、flex- end、space-around、space-between以及space-evenly。stretch：flex-start、center、flex-end以及stretch
  7.TextInput 输入控件 文本值变化 onChangeText  键盘提交按键 onSubmitEditing
- 8.button TouchableHighlight underlaycolor 点击效果
- 9.区分平台：platform | 特定平台扩展名
